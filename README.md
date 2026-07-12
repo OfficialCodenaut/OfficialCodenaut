@@ -6,9 +6,11 @@
 
 I'm a software developer and cybersecurity learner from Poland.
 
-I enjoy understanding how systems are built, how they communicate, how they fail, and how they can be improved. My goal isn't just to write software - it's to understand the technology behind it.
+I enjoy understanding how systems are built, how they communicate, how they fail, and how they can be improved and secured.
 
-Currently I'm building a strong foundation in networking, Linux, Python and cybersecurity while developing projects that help me learn by doing.
+My goal is not only to write software, but to understand the technology behind it. From code and applications to operating systems, networks, and infrastructure.
+
+Currently I'm building my foundations in cybersecurity, system administration, networking, Linux, and Python while creating practical projects and documenting my learning journey.
 
 ---
 
@@ -16,11 +18,12 @@ Currently I'm building a strong foundation in networking, Linux, Python and cybe
 
 I'm currently focused on:
 
-* completing the TryHackMe Pre-Security and Cyber Security 101 learning paths
-* learning Linux as my primary development environment
-* building Python networking and automation tools
-* improving software engineering and problem-solving skills
-* creating projects that document my learning journey
+* building cybersecurity foundations through hands-on labs
+* learning Windows Server and Active Directory administration
+* improving Linux and networking skills
+* creating security focused Python automation tools
+* developing and documenting my own homelab environment
+* building practical projects that combine software, infrastructure, and security
 
 ---
 
@@ -28,9 +31,9 @@ I'm currently focused on:
 
 "Codenaut" combines **code** and **astronaut**.
 
-Not because I want to work in the space industry, but because software feels like exploration.
+Not because I want to work in the space industry, but because technology feels like exploration.
 
-Every project is an unknown environment.
+Every system is an unknown environment.
 
 You observe it.
 
@@ -44,43 +47,79 @@ Then you understand it well enough to build something better.
 
 ---
 
-## 🛠️ Technologies
+## 🏢 Current Projects
 
-### Core Stack
+### NextCorp Lab
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+A simulated enterprise environment created to learn infrastructure, administration, and security engineering.
+
+The project focuses on:
+
+* Windows Server administration
+* Active Directory
+* DNS
+* networking
+* virtualization
+* security concepts
+* infrastructure documentation
+
+The goal is to build a realistic environment that grows together with my skills.
 
 ---
 
-### Secondary
+### Cybersecurity Labs
 
-Used in past and side projects, currently not a primary focus.
+Hands-on learning through:
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+* TryHackMe learning paths
+* CTF challenges
+* Linux environments
+* OSINT exercises
+* vulnerable machines
+* security experiments
+
+---
+
+## 🛠️ Technologies
+
+### Cybersecurity & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge\&logo=vmware\&logoColor=white)
+
+---
+
+### Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ---
 
 ### Tools & Environment
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge\&logo=obsidian\&logoColor=white)
 
 ---
 
 ## 📚 Current Focus
 
-* Computer Networking
-* Linux & Operating Systems
-* Python Automation
-* Web Technologies
-* Cybersecurity Fundamentals
-* Web Application Security
-* Git & Open Source Workflow
+* Cybersecurity fundamentals
+* Security engineering
+* Networking
+* Linux administration
+* Windows Server and Active Directory
+* Python automation
+* Virtualization and homelab development
+* System security and hardening
 
 ---
 
@@ -92,9 +131,11 @@ I like learning **why the tools work.**
 
 Understanding systems will always be more valuable than memorizing commands.
 
+The best way to learn technology is to build something, break something, investigate why it failed, and improve it.
+
 ---
 
 ## 🌍 Connect with me
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codenaut_)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1344388275267309681)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/codenaut_)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/1344388275267309681)
