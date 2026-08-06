@@ -4,13 +4,13 @@
 
 ---
 
-I'm a software developer and cybersecurity learner from Poland.
+I'm a software developer from Poland transitioning into cybersecurity, currently focused on penetration testing, red teaming, and offensive security.
 
-I enjoy understanding how systems are built, how they communicate, how they fail, and how they can be improved and secured.
+My background in software development helps me understand systems from both perspectives: how they are built and how they can fail.
 
-My goal is not only to write software, but to understand the technology behind it. From code and applications to operating systems, networks, and infrastructure.
+I enjoy understanding how applications, operating systems, networks, and infrastructure work - and how they can be analyzed, tested, and secured.
 
-Currently I'm building my foundations in cybersecurity, system administration, networking, Linux, and Python while creating practical projects and documenting my learning journey.
+My goal is not only to use security tools, but to understand the concepts behind them and apply them through practical projects, labs, and technical documentation.
 
 ---
 
@@ -18,12 +18,13 @@ Currently I'm building my foundations in cybersecurity, system administration, n
 
 I'm currently focused on:
 
-* building cybersecurity foundations through hands-on labs
-* learning Windows Server and Active Directory administration
-* improving Linux and networking skills
-* creating security focused Python automation tools
-* developing and documenting my own homelab environment
-* building practical projects that combine software, infrastructure, and security
+* developing penetration testing and red team skills
+* learning web, network, and infrastructure security
+* practicing reconnaissance, enumeration, and exploitation techniques
+* documenting security assessments and CTF methodologies
+* building security-focused Python automation tools
+* improving Linux, networking, and system administration skills
+* creating practical projects that combine software development and cybersecurity
 
 ---
 
@@ -47,36 +48,53 @@ Then you understand it well enough to build something better.
 
 ---
 
-## 🏢 Current Projects
+## 🛠️ Current Projects
 
-### NextCorp Lab
+### Cybersecurity Reports
 
-A simulated enterprise environment created to learn infrastructure, administration, and security engineering.
+A collection of technical writeups documenting my cybersecurity learning journey.
 
-The project focuses on:
+The repository focuses on:
 
-* Windows Server administration
-* Active Directory
-* DNS
-* networking
-* virtualization
-* security concepts
-* infrastructure documentation
+* penetration testing methodology
+* CTF challenge analysis
+* vulnerability research
+* exploitation techniques
+* security findings and remediation
+* technical reporting
 
-The goal is to build a realistic environment that grows together with my skills.
+The goal is not only to complete challenges, but to understand the underlying vulnerabilities and document the investigation process.
 
 ---
 
-### Cybersecurity Labs
+### Tripwire
+
+A security-focused Discord automation tool built to explore security automation concepts and event-driven systems.
+
+The project explores:
+
+* Python automation
+* Discord API integration
+* event-driven architecture
+* security-oriented tooling
+* automated response mechanisms
+
+The goal is to improve both software engineering and cybersecurity skills through practical development.
+
+---
+
+## 🔐 Cybersecurity Learning
 
 Hands-on learning through:
 
 * TryHackMe learning paths
 * CTF challenges
-* Linux environments
-* OSINT exercises
 * vulnerable machines
-* security experiments
+* OSINT investigations
+* AI security experiments
+* penetration testing methodology
+* Linux environments
+* security research
 
 ---
 
@@ -88,6 +106,13 @@ Hands-on learning through:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge\&logo=vmware\&logoColor=white)
+
+---
+
+### Security Tools
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
@@ -104,7 +129,6 @@ Hands-on learning through:
 
 ### Tools & Environment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge\&logo=obsidian\&logoColor=white)
 
@@ -112,14 +136,16 @@ Hands-on learning through:
 
 ## 📚 Current Focus
 
-* Cybersecurity fundamentals
-* Security engineering
-* Networking
+* Penetration testing
+* Red team methodology
+* Web application security
+* Network security
 * Linux administration
-* Windows Server and Active Directory
-* Python automation
-* Virtualization and homelab development
-* System security and hardening
+* Windows environments
+* Active Directory fundamentals
+* Python security automation
+* Vulnerability analysis
+* Security documentation
 
 ---
 
